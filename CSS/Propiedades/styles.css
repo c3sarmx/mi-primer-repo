@@ -1,0 +1,30 @@
+p {
+    color: red;
+    font-family: 'popins', sans-serif;
+    font-size: 14px;
+    font-weight: bold; /* 0 700 */;
+    font-style: italic;
+    font-variant: small-caps;
+    line-height: 1.5;
+    text-align: center;
+    text-decoration: none;
+    letter-spacing: 2px;
+    word-spacing: 5px;
+    line-height: 1.5;
+}
+
+span {
+    text-decoration: underline;
+    color: blue;
+}
+
+a { 
+    color: green;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
